@@ -1,0 +1,7 @@
+Heart Disease Prediction Results
+--------------------------------
+Best KNN Accuracy (k=12): 0.84
+Random Forest Accuracy (n_estimators=10): 0.87
+Cross-validation: 10-fold
+StandardScaler used for numerical features
+Dummy encoding applied to categorical variables
